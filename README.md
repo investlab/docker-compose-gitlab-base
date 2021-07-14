@@ -1,6 +1,6 @@
 # Sử dụng
-docker-compose up
-docker-compose restart
+- docker-compose up
+- docker-compose restart
 
 # Update
 - Giả sử cần update từ ver 13.2.1 lên ver 14.5.2. Trì cần update các version trung gian.
